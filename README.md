@@ -40,20 +40,20 @@ A coffee shop claims that their average wait time for customers is less than 5 m
 
 We perform a hypothesis test to determine if there is enough evidence to support the coffee shop's claim.
 
-## Instructions for Running the Code
+### Instructions for Running the Code
 
 1. Download the dataset from the provided link.
 2. Execute the code for outlier detection and removal using different methods.
 3. Perform hypothesis testing for both questions using the provided data and parameters.
 4. Analyze the results and determine the conclusions based on the hypothesis tests.
 
-# Data Preprocessing
+## Data Preprocessing
 
-## Overview
+### Overview
 
 The Data Preprocessing Toolkit is designed to streamline the process of preparing datasets for machine learning applications. By addressing common data quality issues such as missing values, outliers, and inconsistent formatting, this toolkit aims to enhance the integrity and usability of datasets.
 
-## Features
+### Features
 
 - **Data Exploration:** Understand the structure of the dataset, identify unique values, and perform basic statistical analysis.
 - **Data Cleaning:** Handle missing values, remove duplicates, and address outliers to ensure data reliability.
@@ -61,7 +61,7 @@ The Data Preprocessing Toolkit is designed to streamline the process of preparin
 - **Data Encoding:** Convert categorical variables into numerical representations to facilitate machine learning algorithms.
 - **Feature Scaling:** Standardize or normalize feature values to improve model performance and convergence.
 
-## Usage
+### Usage
 
 - **Exploration:** Use the provided functions to explore the dataset, identify potential issues, and gain insights into the data structure.
 - **Cleaning:** Utilize the data cleaning functions to handle missing values, remove duplicates, and address outliers according to the project requirements.
@@ -69,7 +69,7 @@ The Data Preprocessing Toolkit is designed to streamline the process of preparin
 - **Encoding:** Apply data encoding techniques to convert categorical variables into numerical representations suitable for machine learning algorithms.
 - **Scaling:** Standardize or normalize feature values using feature scaling functions to ensure consistent data ranges and improve model convergence.
 
-## Next Steps
+### Next Steps
 
 - **Experimentation:** Explore different preprocessing techniques and evaluate their impact on data quality and model performance.
 - **Feedback:** Share feedback on the toolkit usability, suggest improvements, or contribute additional features to enhance the preprocessing system.
