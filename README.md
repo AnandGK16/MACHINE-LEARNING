@@ -76,3 +76,33 @@ Dataset : [Link to Dataset](https://drive.google.com/file/d/1F3lRf32JM8ejnXq-Cbf
 - **Experimentation:** Explore different preprocessing techniques and evaluate their impact on data quality and model performance.
 - **Feedback:** Share feedback on the toolkit usability, suggest improvements, or contribute additional features to enhance the preprocessing system.
 - **Documentation:** Maintain comprehensive documentation to guide users on how to utilize the toolkit effectively and troubleshoot common issues.
+
+## Car Price Prediction Analysis Using Various Machine Learning Algorithms
+
+## Introduction
+
+The objective of this project is to predict car prices for the American market by leveraging machine learning algorithms on a comprehensive dataset of various car attributes. As part of this analysis, we aim to identify the significant variables that influence car prices and assess how well these variables describe the pricing dynamics in the American automotive market.
+
+Dataset : [Link to Dataset](https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=sharing)
+
+### Regression Algorithms
+
+We will employ the following regression algorithms to model the relationship between car attributes and prices:
+
+1. **Linear Regression:** This algorithm models the linear relationship between car price and its features, providing a straightforward interpretation of how each feature impacts the price.
+
+2. **Decision Tree Regressor:** By partitioning the data into branches based on feature values, this algorithm captures non-linear relationships between car attributes and prices.
+
+3. **Random Forest Regressor:** Utilizing multiple decision trees, this ensemble method enhances prediction accuracy by reducing overfitting and capturing complex interactions among features.
+
+4. **Gradient Boosting Regressor:** This sequential ensemble method constructs trees iteratively, with each subsequent tree aiming to correct the errors made by the previous ones, resulting in improved prediction performance.
+
+5. **Support Vector Regressor (SVR):** By fitting the data within a margin, SVR aims to minimize prediction errors while effectively handling non-linear relationships between car attributes and prices.
+
+### Evaluation Metrics
+
+To evaluate the performance of each regression model, we will utilize the following performance metrics:
+
+- **Mean Absolute Error (MAE):** Measures the average absolute difference between predicted and actual car prices.
+- **Mean Squared Error (MSE):** Quantifies the average squared difference between predicted and actual car prices, giving higher weight to larger errors.
+- **R-squared (R²) Score:** Represents the proportion of variance in car prices explained by the independent variables, with higher values indicating better model fit.
